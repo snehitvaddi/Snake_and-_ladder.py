@@ -1,2 +1,2 @@
-# Snake_and-_ladder.py
+# Snake_and-_ladder
 Simple Snake And Ladder game without any user interface.
